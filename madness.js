@@ -1,1 +1,1 @@
-alert('MADNESS!!')
+alert('MADNESS!!');
